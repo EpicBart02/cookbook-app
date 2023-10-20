@@ -95,7 +95,7 @@ Our team operated with multiple Scrum Masters throughout the project. Here's a s
 - Improved project management and team communication.
 - Collaborated with Ahmad AlHaj Hussain on various object-related issues, specifically related to weekly lists and shopping lists.
 
-#### Ahmad AlHaj - Concluding Scrum Master: [Ahmadalhaj-rick](https://github.com/ahmadhaj-rick)
+#### [Ahmadalhaj](https://github.com/ahmadhaj-rick) - Concluding Scrum Master:
 
 - Encouraged collaborative communication, regardless of the question's complexity.
 - Provided guidance to team members at different skill levels and supported those at par with, contributing to mutual learning and growth within the team.
@@ -109,7 +109,7 @@ Our team operated with multiple Scrum Masters throughout the project. Here's a s
 - Founded the database manager system.
 - Collaborated on various aspects, including working with Ahmad Alhaj to implement and manage the system.
 
-#### Tsnme:
+#### [Tsnem](https://github.com/Tsnem-m): 
 - Played a pivotal role in solving the first major project roadblock related to understanding the module-info file in Java.
 - Worked on messaging and tags.
 
