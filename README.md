@@ -95,7 +95,7 @@ Our team operated with multiple Scrum Masters throughout the project. Here's a s
 - Improved project management and team communication.
 - Collaborated with Ahmad AlHaj Hussain on various object-related issues, specifically related to weekly lists and shopping lists.
 
-#### Ahmad AlHaj - Concluding Scrum Master: (https://github.com/ahmadhaj-rick)) [Ahmadalhaj-rick]
+#### Ahmad AlHaj - Concluding Scrum Master: [Ahmadalhaj-rick](https://github.com/ahmadhaj-rick)
 
 - Encouraged collaborative communication, regardless of the question's complexity.
 - Provided guidance to team members at different skill levels and supported those at par with, contributing to mutual learning and growth within the team.
